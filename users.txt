@@ -1,0 +1,4 @@
+s1001,Joe Biden,student
+a1001,Admin,admin
+s1002,Mamu Kaka,student
+s1004,Pra,student

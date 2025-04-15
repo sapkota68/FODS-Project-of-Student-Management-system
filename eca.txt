@@ -1,0 +1,3 @@
+s1001,Football;Drama;Chess Club
+s1002,fencing;singing;dancing
+s1004,Balling
